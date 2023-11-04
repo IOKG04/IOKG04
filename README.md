@@ -1,16 +1,22 @@
-### Hi there 👋
+#### About me
 
-<!--
-**IOKG04/IOKG04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a german transgirl who likes coding [(useless) stuff](https://github.com/IOKG04/TheDonutProject), making [abstract animations](https://www.youtube.com/watch?v=Mzj33le0cz8&ab_channel=Rue), making [music](https://www.audiotool.com/user/iokg), and sucking at [chess](https://lichess.org/@/Rue04).  
+If you wanna talk to me, you can do so on discord, my username is @rue04
 
-Here are some ideas to get you started:
+I can program (kinda well) in:
+* c#
+* c
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+(even though my pinned repositories wouldnt quite suggest that)
+
+I love [esolangs](https://esolangs.org/wiki/Esoteric_programming_language), my favorite by far is [asciidots](https://github.com/aaronjanse/asciidots)
+
+#### Some stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iokg04&exclude_repo=Arduino-Projects&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Ideas for some future projects
+
+* asciidots interpreter that runs on the GPU
+* program to view images in the terminal
+* fullsearch chess engine (for lichess)

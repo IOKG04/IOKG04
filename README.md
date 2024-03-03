@@ -22,4 +22,4 @@ When I'm outside my house and thus cant access my desktop, I usually code in a c
 
 ### Some stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iokg04&exclude_repo=Arduino-Projects&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iokg04&exclude_repo=Arduino-Projects,Temporal-Aberration&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)

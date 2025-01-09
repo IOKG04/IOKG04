@@ -1,10 +1,11 @@
 ### About me
 
-I'm a german trans girl who likes coding (useless) stuff.
+German trans girl who likes coding (useless) stuff.
 
 I can program (kinda) well in:
-* c#
-* c
+- c
+- zig
+- c#
 
 I love [esolangs](https://esolangs.org/wiki/Esoteric_programming_language), my favorite by far is [asciidots](https://github.com/aaronjanse/asciidots)
 

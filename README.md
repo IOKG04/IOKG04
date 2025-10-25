@@ -3,8 +3,8 @@
 German trans girl who likes coding (useless) stuff.
 
 I can program (kinda) well in:
-- c
 - zig
+- c
 - c#
 
 I love [esolangs](https://esolangs.org/wiki/Esoteric_programming_language), my favorite by far is [asciidots](https://github.com/aaronjanse/asciidots)
@@ -21,3 +21,5 @@ When I'm outside my house and thus cant access my desktop, I usually code in a c
 ### Some stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iokg04&exclude_repo=Arduino-Projects,Temporal-Aberration&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+Oh, also, I don't use AI. ...And also rarely the internet, most things I code are straight from my own head. I hope that explains the quality ;w;
